@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">AMALIAINTANSAFURA_1202150248_MODUL3</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">INFO</string>
+    <string name="mineral_info_placeholder">Ini adalah merek Air Mineral</string>
+
+
+    <string-array name="mineral_titles">
+        <item>Aqua</item>
+        <item>Amidis</item>
+        <item>Ades</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>VIT</item>
+        <item>Pristine</item>
+        <item>Nestle</item>
+        <item>Le Minerale</item>
+        <item>Evian</item>
+        <item>Aquil</item>
+    </string-array>
+
+    <string-array name="mineral_info">
+        <item>Ini adalah merek Air Mineral Aqua</item>
+        <item>Ini adalah merek Air Mineral Amidis</item>
+        <item>Ini adalah merek Air Mineral Ades</item>
+        <item>Ini adalah merek Air Mineral Cleo</item>
+        <item>Ini adalah merek Air Mineral Club</item>
+        <item>Ini adalah merek Air Mineral VIT</item>
+        <item>Ini adalah merek Air Mineral Pristine</item>
+        <item>Ini adalah merek Air Mineral Nestle</item>
+        <item>Ini adalah merek Air Mineral Le Minerale</item>
+        <item>Ini adalah merek Air Mineral Evian</item>
+        <item>Ini adalah merek Air Mineral Aquil</item>
+    </string-array>
+
+    <array name="mineral_images">
+        <item>@drawable/aqua</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/ades</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/vit</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/equil</item>
+    </array>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+    vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+    odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+    tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+    massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+    molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+    posuere, bibendum id lorem.</string>
+</resources>
